@@ -18,7 +18,7 @@ This project includes all necessary scripts and configurations to:
 - Create a smart contract based on the Ethereum ERC-721 standard (NFT token)
 - Create new NFT tokens using this (or other) contracts on the Ethereum blockchain given its picture and metadata
 - Transact ETH between a buyer and seller of the NFT (as payment)
-- Transact the NFT token itself between the buyer and the seller. 
+- Transact the NFT token itself between the buyer and the seller 
  
 The files CPPNFT.sol, deploy.js, and nft_operations.js are well commented if you're curious about the implementation. Also refer to our presentation slides for more details: https://docs.google.com/presentation/d/1pP4ynRh3clVOfZ4cIvDIluHHaNC28G0YYyny8qeFAXo/edit?usp=sharing
 

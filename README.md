@@ -9,8 +9,8 @@ RELEASE NOTES:
 
 Latest and final release.
 
-Project Name - CPPNFT
-Release Number - 0.2.0
+Project Name - CPPNFT;
+Release Number - 0.2.0;
 Date of Release - 5/17/2022
 
 This project includes all necessary scripts and configurations to:
